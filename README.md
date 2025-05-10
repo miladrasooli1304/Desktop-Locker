@@ -41,7 +41,7 @@ The script uses a fullscreen window with adjustable opacity, a password input fi
 
 2. **How it works**:
    - The desktop will be locked with a fullscreen black window (10% opacity by default).
-   - Enter the password (default: `92327311304m`) to unlock.
+   - Enter the password (default: `123`) to unlock.
    - If the password is incorrect, an error message will appear.
    - The screen will automatically unlock after the timer expires (default: 2000 seconds).
    - The timer countdown is displayed on the screen.
